@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-# MD Sakibur Rahman
-# Author: @msrofficial
-# GitHub: https://github.com/msrofficial
-# Time: Wed Apr 08 22:08:08 2026
-# ──────────────────────────────────────────────
-
 import base64, zlib, marshal
 nFFrxYF4Yu = abs(-868)
 E5d9liwA_p = lambda UlhzC: UlhzC ^ 85
